@@ -52,10 +52,6 @@ Here is an example output of the list of recommended movies: <br/>
 
 **Note: Not every movie has all information listed. If the crawler cannot find relevant information, it will automatically fill the space with "Not Found".**
 
-### You May Also Like...
-
-After users chose their favorite movie from the list, we would run a [Cosine Similarity](https://en.wikipedia.org/wiki/Cosine_similarity) analysis to recommend **3** similar movies based on the summary.
-
 Here is an example of movies similar to *Toy Story 4*: <br/>
 <a href='https://postimg.cc/zbXBKw00' target='_blank'><img src='https://i.postimg.cc/85L68tWQ/Screen-Shot-2020-12-13-at-4-19-55-PM.png' width="600" height="400" border='0' alt='Screen-Shot-2020-12-13-at-4-19-55-PM'/></a>
 
@@ -72,5 +68,3 @@ After making sure you have all packages installed, activate the program through 
 The program will start running immediately.<br/>
 *The scraping process may take up to **30 seconds**. Please do not close the tkinter window when the program is running.*
 
-### Video Presentation
-[YouTube link](https://youtu.be/DIIRPvu-ts0)
